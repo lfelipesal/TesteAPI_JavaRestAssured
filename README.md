@@ -22,7 +22,7 @@ Requisição documentada (PUT /pet) resultando em sucesso. (200)
 
 Gif abaixo mostra a IDE realizando os testes:
 
-![]()
+![Testes](https://user-images.githubusercontent.com/93229568/198815578-e878e691-183d-4abb-aad4-69c7fcbb13bc.gif)
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
