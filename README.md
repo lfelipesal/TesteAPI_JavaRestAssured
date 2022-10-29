@@ -43,7 +43,7 @@ depois de configurada é necessário clonar o repositório na maquina local e ab
 
 Depois de aberto, dentro da IDE tem o botão "run" que começa a executar o arquivo.
 
-## 📚 Mais informações a implementação
+## 📚 Mais informações sobre a implementação
 
 Esse desafio foi possível com base em alguns documentos sobre a utilização das ferramentas, segue abaixo algumas das referências:
 
