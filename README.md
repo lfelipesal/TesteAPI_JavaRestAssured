@@ -1,5 +1,7 @@
 
-# Teste Automatizado de API
+![API-Automation](https://user-images.githubusercontent.com/93229568/198862846-e171edd0-8b20-4ac0-94d9-9be696214ca3.png)
+
+# Teste Automatizado de API 
 
 Utilizando os conhecimentos sobre testes automatizados e de integração fui desafiado para realizar alguns testes em uma linguagem nova, com ferramentas que
 não tinha conhecimento. Nesse desafio a API que foi disponibilizada para teste chama [PetStore](https://petstore.swagger.io/#/), ela está documentada de acordo
@@ -36,7 +38,7 @@ Gif abaixo mostra a IDE realizando os testes:
 
 O código em Java do desafio está disponível clicando [aqui](https://github.com/lfelipesal/TesteAPI_JavaRestAssured/blob/main/Test/src/test/java/casos/test/petstoreTest.java).
 
-## 🛠️ Abrir e rodar o projeto
+## 🛠️ Abrir e rodar o teste
 
 Para rodar os testes automatizado desse desafio é necessário a instalação da IDE IntelliJ configurada para o framework maven e JUnit,
 depois de configurada é necessário clonar o repositório na maquina local e abrir o projeto na IDE seguindo o caminho que foi realizado o clone.
