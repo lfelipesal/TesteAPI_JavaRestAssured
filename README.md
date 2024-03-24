@@ -36,7 +36,7 @@ Gif abaixo mostra a IDE realizando os testes:
 
 ## 📁 Acesso ao código do teste
 
-O código em Java do desafio está disponível clicando [aqui](https://github.com/lfelipesal/TesteAPI_JavaRestAssured/blob/main/Test/src/test/java/casos/test/petstoreTest.java).
+O código em Java do desafio está disponível clicando [aqui](https://github.com/lfelipesal/TesteAPI_JavaRestAssured/blob/main/Test/src/test/java/PetStore/API/tests/PetStoreAPITests.java).
 
 ## 🛠️ Abrir e rodar o teste
 
