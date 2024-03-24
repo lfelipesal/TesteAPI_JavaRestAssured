@@ -24,7 +24,7 @@ Requisição documentada (PUT /pet) resultando em sucesso. (200)
 
 Gif abaixo mostra a IDE realizando os testes:
 
-![Testes](https://user-images.githubusercontent.com/93229568/198815578-e878e691-183d-4abb-aad4-69c7fcbb13bc.gif)
+![TestPetStoreAPITests java](https://github.com/lfelipesal/TesteAPI_JavaRestAssured/assets/93229568/1184ae1e-a0ad-48ac-8948-b9b297fdfc6d)
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
